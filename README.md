@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chopkins31
 - 👀 I’m interested in building my own website and app
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on I need help customising google maps API
+- 🌱 I’m currently learning everything from the start 
+- 💞️ I’m looking to collaborate on I don't know yet
 - 📫 How to reach me clarehopkins@hotmail.co.uk
 
 <!---
